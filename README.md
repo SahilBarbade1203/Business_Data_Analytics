@@ -10,6 +10,7 @@ Focuses on analyzing the hospitality industry, particularly the challenges faced
 Highlights stagnant issues such as declining market share and revenue.
 Provides insights into past booking trends and occupancy profiles.
 Recommends strategies to overcome challenges, including competitive pricing, expansion of budget offerings, and aggressive marketing.
+
 AMAZON SALES ANALYSIS REPORT:
 
 Investigate sales trends of Amazon over recent years.
