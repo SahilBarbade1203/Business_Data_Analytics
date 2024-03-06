@@ -4,7 +4,7 @@ Unified_Mentor_Private_Limited - Business Data Analyst Intern
 Overview:
 This repository contains comprehensive business analysis reports conducted by me during this tenure. These reports delve into various aspects of business operations, providing valuable insights and recommendations to improve performance, address challenges, and seize opportunities. Below is a brief summary of each report included in this repository.
 
-ATLIQ HOSPITALITY ANALYSIS REPORT:
+BUSINESS REPORT:
 
 Focuses on analyzing the hospitality industry, particularly the challenges faced by Atiliq Hospitality.
 Highlights stagnant issues such as declining market share and revenue.
